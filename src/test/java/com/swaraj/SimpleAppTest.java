@@ -11,6 +11,7 @@ class SimpleAppTest {
     @Test
     void basic_test() {
         log.info("executing tests");
+        log.info("executing more tests");
         assertEquals(true, true);
     }
 }
