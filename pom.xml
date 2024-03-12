@@ -141,6 +141,8 @@
     </dependencies>
 
     <build>
+<!--        give name of final artifact here-->
+<!--        <finalName>simple-rest-service</finalName>-->
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
